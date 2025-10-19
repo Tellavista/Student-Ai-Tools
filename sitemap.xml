@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://tellavista.onrender.com/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- University Courses -->
+  <url><loc>https://tellavista.onrender.com/#Medicine</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Engineering</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Law</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Computer-Science</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Business-Administration</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Economics</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Mathematics</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Physics</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Chemistry</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Biology</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Psychology</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Sociology</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Philosophy</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Accounting</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Marketing</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Finance</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Education</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Political-Science</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Environmental-Science</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Nursing</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Architecture</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Art-&-Design</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#History</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Geography</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Statistics</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Pharmacy</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Dentistry</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Agriculture</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Information-Technology</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Logistics-&-Supply-Chain</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Music</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tellavista.onrender.com/#Theatre-Arts</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
+</urlset>
